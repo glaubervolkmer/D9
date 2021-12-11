@@ -1,0 +1,102 @@
+[
+  {
+    "sigla_uf": "AL",
+    "id_municipio": "2703759",
+    "nome_municipio": "Jequiá Da Praia",
+    "pib": "209606759",
+    "pibpercapita": "18032.2401066758",
+    "densidade": "41.2064097483654",
+    "ano": "2019",
+    "media_ideb": "7.65"
+  },
+  {
+    "sigla_uf": "SP",
+    "id_municipio": "3516507",
+    "nome_municipio": "Gabriel Monteiro",
+    "pib": "74118403",
+    "pibpercapita": "26699.7128962536",
+    "densidade": "90.3252367229311",
+    "ano": "2019",
+    "media_ideb": "7.6"
+  },
+  {
+    "sigla_uf": "SP",
+    "id_municipio": "3537701",
+    "nome_municipio": "Piacatu",
+    "pib": "91781348",
+    "pibpercapita": "15498.3701452212",
+    "densidade": "91.4020725878957",
+    "ano": "2019",
+    "media_ideb": "7.3"
+  },
+  {
+    "sigla_uf": "SP",
+    "id_municipio": "3545159",
+    "nome_municipio": "Saltinho",
+    "pib": "245300038",
+    "pibpercapita": "30002.4508317025",
+    "densidade": "108.445813688276",
+    "ano": "2019",
+    "media_ideb": "7.1"
+  },
+  {
+    "sigla_uf": "RS",
+    "id_municipio": "4306452",
+    "nome_municipio": "Dois Lajeados",
+    "pib": "96464367",
+    "pibpercapita": "28422.029169122",
+    "densidade": "102.706104468217",
+    "ano": "2019",
+    "media_ideb": "7.1"
+  },
+  {
+    "sigla_uf": "BA",
+    "id_municipio": "2901700",
+    "nome_municipio": "Antônio Cardoso",
+    "pib": "109844253",
+    "pibpercapita": "9395.62509622787",
+    "densidade": "25.2058380944224",
+    "ano": "2019",
+    "media_ideb": "2.3"
+  },
+  {
+    "sigla_uf": "AP",
+    "id_municipio": "1600550",
+    "nome_municipio": "Pracuúba",
+    "pib": "67289498",
+    "pibpercapita": "13476.7670739035",
+    "densidade": "40.910081150264",
+    "ano": "2019",
+    "media_ideb": "2.5"
+  },
+  {
+    "sigla_uf": "RN",
+    "id_municipio": "2408706",
+    "nome_municipio": "Paraú",
+    "pib": "39213860",
+    "pibpercapita": "10354.8613678373",
+    "densidade": "92.8685714285714",
+    "ano": "2019",
+    "media_ideb": "2.56666666666667"
+  },
+  {
+    "sigla_uf": "PA",
+    "id_municipio": "1502806",
+    "nome_municipio": "Curralinho",
+    "pib": "494536494",
+    "pibpercapita": "14591.1100817278",
+    "densidade": "37.4055960613656",
+    "ano": "2019",
+    "media_ideb": "2.56666666666667"
+  },
+  {
+    "sigla_uf": "RR",
+    "id_municipio": "1400704",
+    "nome_municipio": "Uiramutã",
+    "pib": "111043156",
+    "pibpercapita": "10754.7850847458",
+    "densidade": "16.5274154893213",
+    "ano": "2019",
+    "media_ideb": "2.6"
+  }
+]
